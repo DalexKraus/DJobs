@@ -1,0 +1,9 @@
+name: DJobs
+version: 1.0
+author: dalex
+main: at.dalex.jobs.Jobs
+commands:
+  jobs:
+    description: Verdiene Geld mit arbeiten!
+    usage: /<command>
+    aliases: [job, beruf]
